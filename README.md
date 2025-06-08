@@ -171,7 +171,7 @@ Minimal landing page with WhatsApp integration
 
 ### 💪 StrongTogetherApp – React Native Fitness Tracker  
 Track workouts, share progress, and collaborate with friends  
-- 🔗 [GitHub Repository](https://github.com/kobihanoch/StrongTogetherApp)
+- 🔗 [GitHub Repository](https://github.com/kobihanoch/Strong-Together-App)
 
 ---
 
