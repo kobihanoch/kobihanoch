@@ -1,52 +1,193 @@
-# Hey there! I'm **Kobi Hanoch**, 24 years old 👋
+# 👋 Hello! I'm **Kobi Hanoch**
 
-I’m a first-year Computer Science student at **Afeka College** in Tel Aviv, originally from Nes Ziona, Israel. I’m on a mission to become a top-tier Full-Stack developer with a passion for cloud-native and DevOps practices.
+💻 Full-Stack Developer in the Making · 🎓 CS Student @ Afeka · ☁️ Cloud & DevOps Explorer  
+🇮🇱 Based in Nes Ziona, Israel
 
----
-
-## 🧰 What I Work With
-
-* 💻 **JavaScript (ES6+)** — my go-to language for building responsive web and mobile apps.
-* 📱 **Frontend:** React, React Native, Next.js — creating seamless interfaces and intuitive user experiences.
-* ⚙️ **Backend:** Node.js, Express — designing APIs and managing custom servers (shoutout to Render!). Recently started diving into tokens, HTTPS, Cookies, and CORS to bolster security.
-* 🗄️ **Databases & Services:** MongoDB, Supabase (initial experimentation) — structuring and syncing data effectively.
-* 🔧 **Tools & Workflows:** Git, NPM, RESTful APIs — ensuring clean code and smooth deployments.
-* ☁️ **On My Radar:** AWS, cloud architecture, DevOps fundamentals — gearing up for scalable, resilient systems.
-* 🧭 **Next Up:** Redis caching and WebSockets for real-time features — currently exploring through tutorials and mini-projects.
-* 🛠️ **DevOps & Learning:** Not yet proficient in DevOps, but eager to dive into CI/CD pipelines, infrastructure as code, and formal AWS training soon.
-* 🐍 **Python:** introduced during my CS coursework; familiar with basics but focused my projects elsewhere.
+[![GitHub Followers](https://img.shields.io/github/followers/kobihanoch?label=Followers&style=social)](https://github.com/kobihanoch)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/kobihanoch)
 
 ---
 
-## 🚀 My Journey So Far
+## 🚀 Professional Profile
 
-1. **C# with .NET MAUI:** started my coding path in C#, using .NET MAUI for cross‑platform apps.
-2. **Discovering React:** saw how dominant and versatile React is in today’s industry, so I taught myself React and React Native through independent projects.
-3. **Self‑led learning:** beyond C# and Python lessons at university, I’ve deepened skills by building projects hands‑on:
-
-   * A **Pilates booking** platform (full-stack)
-   * A **barber shop** landing page with WhatsApp integration
-   * **Strong Together**, a collaborative fitness tracker in React Native
-4. **Backend evolution:** moved from Supabase prototypes to crafting my own **Node.js + Express** servers.
-5. **Deployment debut:** launched my first live backend on **Render**, and I’m excited to step into AWS deployments next.
+I'm a Computer Science student with a strong grasp of **modern full-stack development**, specializing in building **modular, scalable, and secure applications**.  
+I’m passionate about **cloud-native architecture**, backend engineering, and building intuitive user experiences.  
+Currently diving deeper into **DevOps**, **AWS infrastructure**, and **real-time systems**.
 
 ---
 
-## 🎯 Where I’m Headed
+## 💻 Tech Stack
 
-I’m driven to:
+### 🧠 Languages
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>
+      Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/>
+      C#
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
+      Python
+    </td>
+  </tr>
+</table>
 
-* **Master full-stack pipelines** — from frontend UIs to backend services.
-* **Embrace DevOps** — implement CI/CD, infrastructure as code, and monitoring.
-* **Leverage AWS** — architect cloud-native solutions for high availability.
+### 🎨 Frontend
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
+      React Native
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/>
+      Next.js
+    </td>
+  </tr>
+</table>
+
+### 🔧 Backend
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>
+      Node.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br/>
+      Express
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases & Services
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/>
+      MongoDB
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="40"/><br/>
+      Supabase
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/><br/>
+      Redis
+    </td>
+  </tr>
+</table>
+
+### ☁️ DevOps & Tools
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="40"/><br/>
+      AWS
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
+      Docker
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
+      Git
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/><br/>
+      Postman
+    </td>
+  </tr>
+</table>
+"""
 
 ---
 
-## 📬 Let’s Connect
+## 🧭 Areas of Strength & Focus
 
-Always open to collaboration, internships, or a coffee chat about tech!
+### ✅ Core Strengths:
+- Frontend: **React**, **React Native**, **Next.js**
+- Backend: **Node.js**, **Express**, **MongoDB**
+- Web Auth: **JWT**, secure cookies, session handling
+- Clean code, modular structure, REST APIs
 
-* 📧 Email: [kobikobi622@gmail.com](mailto:kobikobi622@gmail.com)
-* 🔗 LinkedIn: [kobi-hanoch](https://www.linkedin.com/in/kobi-hanoch-297522353/)
+### 🚀 Currently Leveling Up In:
+- **Cloud-native DevOps** with **AWS** & **Docker**
+- **WebSockets + Redis** for real-time architecture
+- **CI/CD pipelines**, monitoring, and deployment automation
+- **RLS** & Postgres security with Supabase
 
-Thanks for stopping by—let’s build something amazing together! 🚀
+---
+
+## 📚 Learning Milestones
+
+- Built strong foundations in **object-oriented programming** (Java, C#)
+- Developed and deployed **modular REST APIs** using Express
+- Built **responsive, mobile-first interfaces** with React & React Native
+- Implemented **auth flows** using JWT & secure cookies
+- Modeled data in **MongoDB**, explored **Supabase's RLS**
+- Continuously growing in **Redis, Docker, CI/CD, and AWS**
+
+---
+
+## 🧪 Actively Exploring
+
+- Redis Caching & Query Optimization  
+- Real-Time Systems using WebSockets  
+- AWS Infrastructure (EC2, Load Balancers, CloudFront)  
+- Docker-based CI/CD Pipelines  
+- Microservice Design Patterns
+
+---
+
+## 🔥 Featured Projects
+
+### 🧘‍♀️ PilatesApp – Full-Stack Booking Platform  
+Built for a real Pilates instructor:  
+- Authentication, session scheduling, and admin dashboard  
+- 🔙 [Backend Repository](https://github.com/kobihanoch/pilatesapp-backend)  
+- 🎨 [Frontend Repository](https://github.com/kobihanoch/pilatesapp-frontend)
+
+---
+
+### 💈 Barber Shop Website  
+Minimal landing page with WhatsApp integration  
+> 🔒 Currently in Private Repository
+
+---
+
+### 💪 StrongTogetherApp – React Native Fitness Tracker  
+Track workouts, share progress, and collaborate with friends  
+- 🔗 [GitHub Repository](https://github.com/kobihanoch/StrongTogetherApp)
+
+---
+
+## 🎯 2025 Goals
+
+- Deploy robust **microservices** with Docker & Kubernetes  
+- Earn **AWS certification** and apply it in real-world apps  
+- Launch **real-time messaging features** with Redis pub/sub  
+- Build full **CI/CD automation** and observability stacks  
+- Contribute to open-source and grow within a tech team
+
+---
+
+## 📬 Contact Me
+
+💼 Open to: **Internships**, **Junior Developer Roles**, **Tech Collaborations**  
+📧 Email: [kobikobi622@gmail.com](mailto:kobikobi622@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
+💻 [GitHub](https://github.com/kobihanoch)
