@@ -1,3 +1,4 @@
+
 # 👋 Hello! I'm **Kobi Hanoch**
 
 💻 Full-Stack Developer in the Making · 🎓 CS Student @ Afeka · ☁️ Cloud & DevOps Explorer  
@@ -12,8 +13,8 @@
 ## 🚀 Professional Profile
 
 I'm a Computer Science student with a strong grasp of **modern full-stack development**, specializing in building **modular, scalable, and secure applications**.  
-I’m passionate about **cloud-native architecture**, backend engineering, and building intuitive user experiences.  
-Currently diving deeper into **DevOps**, **AWS infrastructure**, and **real-time systems**.
+I’m passionate about cloud-native architecture, **backend engineering**, and building intuitive user experiences.  
+Currently diving deeper into **DevOps (Cloud mostly, AWS)**, **AWS infrastructure**, and **real-time systems**.
 
 ---
 
@@ -112,7 +113,6 @@ Currently diving deeper into **DevOps**, **AWS infrastructure**, and **real-time
     </td>
   </tr>
 </table>
-"""
 
 ---
 
@@ -129,6 +129,7 @@ Currently diving deeper into **DevOps**, **AWS infrastructure**, and **real-time
 - **WebSockets + Redis** for real-time architecture
 - **CI/CD pipelines**, monitoring, and deployment automation
 - **RLS** & Postgres security with Supabase
+- **EC2, ALB, ASG**, Docker Compose, **Redis Queues with BullMQ**
 
 ---
 
@@ -139,17 +140,9 @@ Currently diving deeper into **DevOps**, **AWS infrastructure**, and **real-time
 - Built **responsive, mobile-first interfaces** with React & React Native
 - Implemented **auth flows** using JWT & secure cookies
 - Modeled data in **MongoDB**, explored **Supabase's RLS**
-- Continuously growing in **Redis, Docker, CI/CD, and AWS**
-
----
-
-## 🧪 Actively Exploring
-
-- Redis Caching & Query Optimization  
-- Real-Time Systems using WebSockets  
-- AWS Infrastructure (EC2, Load Balancers, CloudFront)  
-- Docker-based CI/CD Pipelines  
-- Microservice Design Patterns
+- Worked with **Redis queues & BullMQ workers**
+- Deployed scalable apps on **EC2 with ALB and ASG**
+- Dockerized apps using **Docker Compose**
 
 ---
 
@@ -160,14 +153,6 @@ Built for a real Pilates instructor:
 - Authentication, session scheduling, and admin dashboard  
 - 🔙 [Backend Repository](https://github.com/kobihanoch/pilatesapp-backend)  
 - 🎨 [Frontend Repository](https://github.com/kobihanoch/pilatesapp-frontend)
-
----
-
-### 💈 Barber Shop Website  
-Minimal landing page with WhatsApp integration  
-> 🔒 Currently in Private Repository
-
----
 
 ### 💪 StrongTogetherApp – React Native Fitness Tracker  
 Track workouts, share progress, and collaborate with friends  
