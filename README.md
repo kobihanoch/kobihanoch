@@ -16,6 +16,8 @@ I’m **24 years old**, living in **Nes Ziona, Israel**.
 I’m a *hands‑on* developer who loves turning ideas into **scalable, elegant software**.  
 My happy place is where **backend architecture** meets **cloud deployment**, but I also enjoy crafting slick user experiences in **React / React Native**.
 
+I currently work with React, React Native, Node.js, Express, MongoDB, and Docker, and **I’ve led** full-stack projects like a Pilates studio platform and a fitness tracking app with authentication, dashboards, and real-time session management.
+
 Recent highlights ⬇️
 - Spun up full environments on **AWS EC2** with **ALB** & **Auto‑Scaling Groups** (as a learning playground).  
 - Integrated **Redis + BullMQ** queues & dedicated workers for background jobs.  
