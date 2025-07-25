@@ -1,178 +1,97 @@
+<!-- README.md – place this in the root of your GitHub profile -->
 
-# 👋 Hello! I'm **Kobi Hanoch**
+# 👋 Hey there — I'm **Kobi Hanoch**
 
-💻 Full-Stack Developer in the Making · 🎓 CS Student @ Afeka · ☁️ Cloud & DevOps Explorer  
-🇮🇱 Based in Nes Ziona, Israel
+I’m **24 years old**, living in **Nes Ziona, Israel**.  
+💻 **Full‑Stack Developer** · 🎓 **Computer Science Student** (2nd year) @ **Afeka College** · ☁️ **Cloud & Deployment Enthusiast**
 
-[![GitHub Followers](https://img.shields.io/github/followers/kobihanoch?label=Followers&style=social)](https://github.com/kobihanoch)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
+
+[![GitHub Followers](https://img.shields.io/github/followers/kobihanoch?label=Followers&style=social)](https://github.com/kobihanoch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kobi-hanoch-297522353/)
 [![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/kobihanoch)
 
 ---
 
-## 🚀 Professional Profile
+## 🚀 About Me
+I’m a *hands‑on* developer who loves turning ideas into **scalable, elegant software**.  
+My happy place is where **backend architecture** meets **cloud deployment**, but I also enjoy crafting slick user experiences in **React / React Native**.
 
-I'm a Computer Science student with a strong grasp of **modern full-stack development**, specializing in building **modular, scalable, and secure applications**.  
-I’m passionate about cloud-native architecture, **backend engineering**, and building intuitive user experiences.  
-Currently diving deeper into **DevOps (Cloud mostly, AWS)**, **AWS infrastructure**, and **real-time systems**.
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Languages
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><br/>
-      JavaScript
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br/>
-      Java
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/><br/>
-      C#
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br/>
-      Python
-    </td>
-  </tr>
-</table>
-
-### 🎨 Frontend
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
-      React
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br/>
-      React Native
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/><br/>
-      Next.js
-    </td>
-  </tr>
-</table>
-
-### 🔧 Backend
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><br/>
-      Node.js
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><br/>
-      Express
-    </td>
-  </tr>
-</table>
-
-### 🗄️ Databases & Services
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><br/>
-      MongoDB
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" width="40"/><br/>
-      Supabase
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/><br/>
-      Redis
-    </td>
-  </tr>
-</table>
-
-### ☁️ DevOps & Tools
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="40"/><br/>
-      AWS
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><br/>
-      Docker
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br/>
-      Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/><br/>
-      Postman
-    </td>
-  </tr>
-</table>
+Recent highlights ⬇️
+- Spun up full environments on **AWS EC2** with **ALB** & **Auto‑Scaling Groups** (as a learning playground).  
+- Integrated **Redis + BullMQ** queues & dedicated workers for background jobs.  
+- Containerised apps with **Docker & Docker Compose**.  
+- Strengthened my **Java OOP** foundations while tackling uni projects.  
+- Deep‑dived into **networking fundamentals** (TCP, UDP, WebSockets).
 
 ---
 
-## 🧭 Areas of Strength & Focus
-
-### ✅ Core Strengths:
-- Frontend: **React**, **React Native**, **Next.js**
-- Backend: **Node.js**, **Express**, **MongoDB**
-- Web Auth: **JWT**, secure cookies, session handling
-- Clean code, modular structure, REST APIs
-
-### 🚀 Currently Leveling Up In:
-- **Cloud-native DevOps** with **AWS** & **Docker**
-- **WebSockets + Redis** for real-time architecture
-- **CI/CD pipelines**, monitoring, and deployment automation
-- **RLS** & Postgres security with Supabase
-- **EC2, ALB, ASG**, Docker Compose, **Redis Queues with BullMQ**
+## 💻 Tech‑Stack
+| **Category** | **Technologies (icon + name)** |
+| --- | --- |
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C# • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python |
+| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> React Native • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20"/> Next.js |
+| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/> Node.js • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20"/> Express • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20"/> BullMQ/Redis |
+| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/> MongoDB • <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" height="20"/> Supabase/Postgres (RLS) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20"/> Redis |
+| **Cloud & Tools** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="20"/> AWS (EC2 · ALB · ASG) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker & Compose • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20"/> Git/GitHub • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="20"/> Postman • 🛡 **Zod** (type‑safe validation) |
 
 ---
 
-## 📚 Learning Milestones
-
-- Built strong foundations in **object-oriented programming** (Java, C#)
-- Developed and deployed **modular REST APIs** using Express
-- Built **responsive, mobile-first interfaces** with React & React Native
-- Implemented **auth flows** using JWT & secure cookies
-- Modeled data in **MongoDB**, explored **Supabase's RLS**
-- Worked with **Redis queues & BullMQ workers**
-- Deployed scalable apps on **EC2 with ALB and ASG**
-- Dockerized apps using **Docker Compose**
+## 🏆 Core Strengths
+- **Advanced RESTful APIs** – authentication, RBAC, token refresh, secure data flows with **JWT** & **Supabase RLS**  
+- **End‑to‑end architecture** – database modelling → backend logic → containerised deployment  
+- **Real‑time features** – WebSockets + Redis pub/sub  
+- **Scalable workflows** – background jobs, message queues, modular services  
+- **Readable & maintainable code** – SOLID principles, clear layering, exhaustive schema validation with **Zod**  
 
 ---
 
-## 🔥 Featured Projects
-
-### 🧘‍♀️ PilatesApp – Full-Stack Booking Platform  
-Built for a real Pilates instructor:  
-- Authentication, session scheduling, and admin dashboard  
-- 🔙 [Backend Repository](https://github.com/kobihanoch/pilatesapp-backend)  
-- 🎨 [Frontend Repository](https://github.com/kobihanoch/pilatesapp-frontend)
-
-### 💪 StrongTogetherApp – React Native Fitness Tracker  
-Track workouts, share progress, and collaborate with friends  
-- 🔗 [GitHub Repository](https://github.com/kobihanoch/Strong-Together-App)
+## 🛠️ What I Can Build Today
+| 💡 Need | 🏗️ I Deliver |
+| --- | --- |
+| **Robust backend services** | Secure REST APIs with advanced auth flows, session handling & well‑structured data models |
+| **Responsive web UIs** | React · Next.js · Tailwind · shadcn/ui |
+| **Cross‑platform mobile apps** | React Native (Expo) |
+| **Background processing** | Redis + BullMQ workers |
+| **Containerised deployments** | Docker Compose on Render / AWS EC2 |
+| **Proof‑of‑concepts at scale** | Modular codebase, logging & patterns borrowed from enterprise systems |
 
 ---
 
-## 🎯 2025 Goals
-
-- Deploy robust **microservices** with Docker & Kubernetes  
-- Earn **AWS certification** and apply it in real-world apps  
-- Launch **real-time messaging features** with Redis pub/sub  
-- Build full **CI/CD automation** and observability stacks  
-- Contribute to open-source and grow within a tech team
+## 📈 Scaling & Enterprise Mindset
+I’m actively researching **high‑scale, enterprise‑grade patterns** and rebuilding side‑projects with **industry best practices**.  
+Next up on my roadmap: **Kubernetes** (Helm, operators, service meshes) to orchestrate micro‑services at scale.
 
 ---
 
-## 📬 Contact Me
+## 🌟 Featured Projects
 
-💼 Open to: **Internships**, **Junior Developer Roles**, **Tech Collaborations**  
-📧 Email: [kobikobi622@gmail.com](mailto:kobikobi622@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
-💻 [GitHub](https://github.com/kobihanoch)
+| Project | Tech | Live / Highlights |
+| --- | --- | --- |
+| **PilatesApp** – *Booking Platform* | React · Node.js · MongoDB · Docker | Deployed on **Render** for client convenience; features authentication, schedule management & admin dashboard |
+| **StrongTogetherApp** – *Fitness Tracker (React Native)* | React Native · Express · Supabase | My **first React Native project**, built while learning mobile development. Uses **Supabase Edge Functions** for backend logic (no separate server). Includes workout logging, progress tracking & data sync. |
+
+---
+
+## 🎯 2025 Focus Points
+- Earn **AWS Certified Developer** credentials  
+- Master **Kubernetes** for multi‑service deployments  
+- Open‑source internal tools & snippets  
+- Deepen my networking & scaling expertise  
+
+---
+
+## 🤝 Work & Collaboration
+- I’m **open to internships, junior roles, startup ventures, or any challenge that needs a creative mind & deep planning**.  
+- Browse my repos – if you spot improvements or have ideas, **I’m always happy to hear feedback and discuss pull‑requests**.
+
+---
+
+## 📫 Let’s Connect
+- ✉️ **Email:** [kobikobi622@gmail.com](mailto:kobikobi622@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/kobi-hanoch-297522353](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
+- 💻 **GitHub:** [github.com/kobihanoch](https://github.com/kobihanoch)
+
+---
+
+> *“Code is like humor — when you have to explain it, it’s bad.”*  
+> &nbsp;&nbsp;— Cory House
