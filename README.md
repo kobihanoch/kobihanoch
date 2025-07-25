@@ -1,5 +1,3 @@
-<!-- README.md – place this in the root of your GitHub profile -->
-
 # 👋 Hey there — I'm **Kobi Hanoch**
 
 I’m **24 years old**, living in **Nes Ziona, Israel**.  
