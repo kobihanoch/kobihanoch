@@ -14,7 +14,7 @@ Hey, I’m Kobi Hanoch, a developer who enjoys turning ideas into software that 
 I enjoy working on backend architecture and setting things up in the cloud, but I also like building clean UI/UX with **React (NEXT.js as well) and React Native**.
 
 Most of the time, I work with React, React Native, Node.js, Express, MongoDB, and Docker.  
-I’ve built full stack projects like a Pilates booking app and a fitness tracker that includes login, dashboards, and real-time features.
+I’ve built and led full stack projects like a Pilates booking app and a fitness tracker app (Done alone) that includes login, dashboards, and real-time features.
 
 Here’s what I’ve done recently:
 - Deployed an instance using **AWS EC2** using **Application Load Balancer** and **Auto Scaling Groups** for studying working with cloud architecture
