@@ -1,7 +1,8 @@
-# 👋 Hey there — I'm **Kobi Hanoch**
+# 👋 Hey there - I'm **Kobi Hanoch**
 
-I’m **24 years old**, living in **Nes Ziona, Israel**.  
-💻 **Full Stack Developer** · 🎓 **Computer Science Student** (second year) at **Afeka College** · ☁️ **Cloud and Deployment Enthusiast**
+I’m **24 years old**, based in **Nes Ziona, Israel**.  
+💻 **Full Stack Developer** · 🎓 **Computer Science Student** (2nd year) at **Afeka College**  
+☁️ Passionate about Scalable Cloud Systems | 📱 Deep into Mobile Dev with React Native
 
 [![GitHub Followers](https://img.shields.io/github/followers/kobihanoch?label=Followers&style=social)](https://github.com/kobihanoch)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
@@ -10,19 +11,13 @@ I’m **24 years old**, living in **Nes Ziona, Israel**.
 ---
 
 ## 🚀 About Me
-Hey, I’m Kobi Hanoch, a developer who enjoys turning ideas into software that achieves their core purpose, looks good, and can scale easily.  
-I enjoy working on backend architecture and setting things up in the cloud, but I also like building clean UI/UX with **React (NEXT.js as well) and React Native**.
 
-Most of the time, I work with React, React Native, Node.js, Express, MongoDB, and Docker.  
-I’ve built and led full stack projects like a Pilates booking app and a fitness tracker app (Done alone) that includes login, dashboards, and real-time features.
+I'm a hands-on **Full Stack Developer** who loves building real-world apps with clean structure, optimized performance, and scalable architecture.
 
-Here’s what I’ve done recently:
-- Deployed an instance using **AWS EC2** using **Application Load Balancer** and **Auto Scaling Groups** for studying working with cloud architecture
-- Integrated **Redis and BullMQ** for background job processing
-- Worked with **Redis cache**, to make data fetchig more efficient
-- Used **Docker and Compose** to containerize apps
-- Strengthened my skills in **Java OOP** through real university projects
-- Spent time learning about **networking** concepts like TCP, UDP, and WebSockets
+My strongest tools are **React, React Native, Node.js**, and **cloud-native infrastructure**.  
+What sets me apart is the way I **dive deep into internals** - exploring **memoization**, **cache layers**, and **efficient rendering** across both frontend and backend.
+
+💡 I believe modern apps need to be **smart**, **snappy**, and **scalable** - and that’s what I strive to build.
 
 ---
 
@@ -30,72 +25,90 @@ Here’s what I’ve done recently:
 
 | **Category** | **Technologies (icon and name)** |
 | --- | --- |
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C# • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python |
-| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> React • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> React Native • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="20"/> Next.js |
-| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/> Node.js • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20"/> Express • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20"/> BullMQ and Redis |
-| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/> MongoDB • <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" height="20"/> Supabase and Postgres (with RLS) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="20"/> Redis |
-| **Cloud and Tools** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="20"/> AWS (EC2, ALB, ASG) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker and Compose • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20"/> Git and GitHub • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="20"/> Postman • 🛡 **Zod** for type-safe validation |
+| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C# • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python |
+| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> React • React Native • Next.js |
+| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/> Node.js • Express • Redis • BullMQ |
+| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/> MongoDB • <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" height="20"/> Supabase + PostgreSQL • Redis |
+| **Cloud and Tools** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="20"/> AWS (EC2, ALB, ASG) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker and Compose • Git & GitHub • Postman • 🛡 Zod (type-safe validation) |
 
 ---
 
-## 🏆 Core Strengths
-- **API development** — includes authentication, role-based access, token refresh logic, and secure flows using **JWT** and **Supabase RLS**
-- **System design** — from planning the database to writing backend logic to deploying in Docker
-- **Live data features** — built with WebSockets and Redis pub/sub
-- **Async workflows** — background processing using queues and modular services
-- **Clean, readable code** — structured using **SOLID** principles with proper layering and strict validation using **Zod**
+## 🧠 What Makes Me Different
 
----
-
-## 🛠️ What I Can Build Today
-
-| 💡 Need | 🏗️ I Deliver |
-| --- | --- |
-| **Backend systems** | Secure REST APIs with full auth flows, session support, and clear data models |
-| **Responsive interfaces** | Built with React, Next.js, Tailwind, and shadcn/ui |
-| **Mobile apps** | Developed using React Native and Expo |
-| **Background jobs** | Powered by Redis and BullMQ |
-| **Deployable solutions** | Run with Docker Compose on Render or AWS EC2 |
-| **Quick prototypes** | Built using modular code and real-world design patterns |
-
----
-
-## 📈 Scaling and Enterprise Mindset
-I enjoy learning how large-scale systems are built and maintained. I’ve been applying those ideas to my own side projects and making them more robust.  
-Next up: diving into **Kubernetes** with tools like Helm, service meshes, and operators to better manage multi-service deployments.
+- 🔁 Deep understanding of **memoization in React**, using `useMemo`, `useCallback`, `React.memo`, and `lazy rendering` to reduce unnecessary re-renders and boost UI performance.
+- 🧠 Designed **multi-layered cache strategies** - from **Redis compression with gzip/base64** on the backend, to **preload/memoize patterns** in React Native using contexts and hooks.
+- 🧱 Built scalable and modular APIs with **JWT auth**, and **advanced SQL aggregation logics**.
+- 📲 Created fluid, snappy UI experiences with **React Native**, **custom animations**, and **offline-first** patterns.
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Tech | Live or Highlights |
-| --- | --- | --- |
-| **PilatesApp** – *Booking Platform* | React, Node.js, MongoDB, Docker | Hosted on **Render** with full login, schedule booking, and admin tools |
-| **StrongTogetherApp** – *Fitness Tracker (React Native)* | React Native, Express, Supabase | My first mobile project — used **Supabase Edge Functions** for backend logic, with features like workout logs, progress view, and data sync |
+### 🏋️ Strong Together App – *GYM Tracker (iOS)*
+
+A smart mobile app to track workouts, cardio, and progress – built from scratch using best practices in mobile engineering.
+
+#### 🔷 Frontend
+- React Native (Expo SDK 54)
+- Modular context architecture (Auth, Workout, Analysis, Notifications)
+- Advanced memoization and caching strategies
+- Real-time progress tracking and UI animations
+- **Published to App Store**
+
+🔗 [Frontend Repo](https://github.com/kobihanoch/Strong-Together-App)
+
+#### 🔶 Backend
+- Node.js + Express API
+- Supabase PostgreSQL with RLS
+- Redis Caching Layer (GZIP + fallback logic)
+- Secure Auth flow + Token Refresh logic
+
+🔗 [Backend Repo](https://github.com/kobihanoch/Strong-Together-Backend)
 
 ---
 
-## 🎯 2025 Focus Points
-- Earn the **AWS Certified Developer** title  
-- Master **Kubernetes** and learn how to deploy multi-service apps  
-- Open source useful tools I’ve built  
-- Keep improving my knowledge of **networking and system scaling**
+### 🤸 PilatesApp – *Booking Platform for Instructors & Clients*
+
+An end-to-end Pilates booking system originally built for a real instructor, including admin tools and session management.
+
+#### 🔷 Frontend
+- React
+- Session calendar, dynamic modals, role-based actions
+
+🔗 [Frontend Repo](https://github.com/kobihanoch/pilatesapp-frontend)
+
+#### 🔶 Backend
+- Express API with JWT auth
+- MongoDB Atlas (cloud-managed)
+- Render deployment with Docker support (also tested deployment with AWS EC2)
+- Admin panel & session logic exposed through REST
+
+🔗 [Backend Repo](https://github.com/kobihanoch/pilatesapp-backend)
 
 ---
 
-## 🤝 Work and Collaboration
-I’m open to **internships**, **junior roles**, **startup teams**, or any project where I can help build something meaningful with care and planning.  
-Feel free to check out my repos — I’m always happy to hear feedback, chat, or discuss ideas.
+## 🎯 Goals for 2025
+
+- 🧠 Deepen my understanding of **Kubernetes**, **Helm**, and modern **cloud-native architecture** to confidently manage large-scale systems
+- 🧪 Build a real **SaaS product** that solves a meaningful problem and delivers real, measurable value to users
+- 🧱 Create an **enterprise-grade platform** with **microservices**, **high availability**, **observability**, and **scalable best practices**
+- 📚 Become a stronger **frontend and backend developer** by mastering how things work **under the hood** (React, Node.js, etc.)
+- ☁️ Strengthen my **DevOps and Cloud fundamentals** - CI/CD, Docker, container orchestration, and deployment pipelines
+- 💼 Gain **real-world experience** while still studying - through part-time work, freelance, or high-impact collaborations
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let’s Connect
 
-- ✉️ **Email:** [kobikobi622@gmail.com](mailto:kobikobi622@gmail.com)  
-- 💼 **LinkedIn:** [linkedin.com/in/kobi-hanoch-297522353](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
-- 💻 **GitHub:** [github.com/kobihanoch](https://github.com/kobihanoch)
+I’m open to **internships**, **junior positions**, and **collaboration** with startups or dev teams looking for someone who cares about building solid, scalable apps - both in code and in spirit.
+
+📫 Feel free to reach out:
+
+- ✉️ [kobikobi622@gmail.com](mailto:kobikobi622@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
+- 💻 [GitHub](https://github.com/kobihanoch)
 
 ---
 
-> *“Code is like humor — when you have to explain it, it’s bad.”*  
-> &nbsp;&nbsp;— Cory House
+> “Code is like humor - when you have to explain it, it’s bad.”  
+> - Cory House
