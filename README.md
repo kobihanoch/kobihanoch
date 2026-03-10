@@ -1,6 +1,6 @@
 # 👋 Hey there - I'm **Kobi Hanoch**
 
-I’m **24 years old**, based in **Nes Ziona, Israel**.  
+I’m **25 years old**, based in **Nes Ziona, Israel**.  
 💻 **Full Stack Developer** · 🎓 **Computer Science Student** (2nd year) at **Afeka College**  
 ☁️ Passionate about Scalable Cloud Systems | 📱 Deep into Mobile Dev with React Native
 
