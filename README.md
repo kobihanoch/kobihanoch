@@ -4,6 +4,10 @@
 🎓 Computer Science Student (2nd Year) – Afeka College  
 📍 Israel  
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kobihanoch&theme=tokyonight" />
+</p>
+
 I build **real production systems** – not just apps.
 
 ---
