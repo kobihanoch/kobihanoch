@@ -1,128 +1,144 @@
-# 👋 Hey there - I'm **Kobi Hanoch**
+# 👋 Hey, I'm Kobi Hanoch
 
-I’m **25 years old**, based in **Nes Ziona, Israel**.  
-💻 **Full Stack Developer** · 🎓 **Computer Science Student** (2nd year) at **Afeka College**  
-☁️ Passionate about Scalable Cloud Systems | 📱 Deep into Mobile Dev with React Native
+💻 Full Stack Engineer  
+🎓 Computer Science Student (2nd Year) – Afeka College  
+📍 Israel  
 
-[![GitHub Followers](https://img.shields.io/github/followers/kobihanoch?label=Followers&style=social)](https://github.com/kobihanoch)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
-[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/kobihanoch)
+I build **real production systems** – not just apps.
 
 ---
 
 ## 🚀 About Me
 
-I'm a hands-on **Full Stack Developer** who loves building real-world applications with clean structure, optimized performance, and scalable architecture.
+I’m a **full stack engineer with a backend-first mindset**, focused on building systems that are:
 
-My strongest tools are **React, React Native, Node.js**, and **cloud-native infrastructure**.  
-What sets me apart is how I **dive deep into internals** - exploring **memoization**, **cache strategies**, and **performance optimizations** across both frontend and backend.
+- Scalable
+- Observable
+- Maintainable
+- Designed with real-world constraints
 
-My journey in development began early - I built my first HTML website in **Notepad at the age of 10**, with no fancy IDEs and certainly no AI.  
-In high school, I progressed to **C#**, and later expanded my skillset during my Computer Science degree with **Java**, **Python**, and **MIPS Assembly**.
-
-Taking an Assembly course opened my eyes to how deep systems can go - from CPU instructions to memory layout - and made me realize that there's always another layer to understand.  
-Since then, I’ve been committed to pushing deeper into the technologies I use - especially in **React**, where I focus on **micro-optimizations**, **manual memoization**, and understanding rendering behavior beyond the surface.
-
-I often choose to **build core logic myself** instead of relying blindly on third-party libraries - not out of ego, but out of curiosity and the desire to **truly understand how things work under the hood**.  
-For example, in my mobile app, I developed a custom **SWR-like data layer**, tailored for offline-first caching and real-time sync - giving me full control over fetch lifecycles, validation, and memory usage.
-
-As AI tools evolved, I’ve embraced them thoughtfully - using them where they provide value, but never as a crutch.  
-When it comes to **system scaling**, **security**, and **long-term maintainability**, I believe there's no replacement for **human reasoning and deliberate architecture**.  
-That’s why I intentionally avoid relying on AI-generated code for **critical features or complex logic** - I prefer to craft them myself with clarity and purpose.
-
-💡 I believe modern apps should be **smart**, **snappy**, and **built to scale** - and that’s exactly what I aim to deliver.
-
+Most developers build features.  
+I focus on **flows, architecture, and system behavior under load**.
 
 ---
 
-## 💻 Tech Stack
+## 🧠 Engineering Mindset
 
-| **Category** | **Technologies (icon and name)** |
-| --- | --- |
-| **Languages** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20"/> JavaScript • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20"/> C# • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python • MIPS Assembly |
-| **Frontend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20"/> React • React Native • Next.js |
-| **Backend** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20"/> Node.js • Express • Redis • BullMQ |
-| **Databases** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/> MongoDB • <img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" height="20"/> Supabase + PostgreSQL • Redis |
-| **Cloud and Tools** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="20"/> AWS (EC2, ALB, ASG) • <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker and Compose • Git & GitHub • Postman • 🛡 Zod (type-safe validation) |
+- I design systems **end-to-end** (client → API → DB → async workers → realtime)
+- I prefer **explicit control** over heavy abstractions (SQL over ORM when needed)
+- I separate **critical paths** from **background processing**
+- I care about **correctness, not just functionality**
 
 ---
 
-## 🧠 What Makes Me Different
+## ⚙️ Tech Stack
 
-- 🔁 Deep understanding of **memoization in React**, using `useMemo`, `useCallback`, `React.memo`, and `lazy rendering` to reduce unnecessary re-renders and boost UI performance.
-- 🧠 Designed **multi-layered cache strategies** - from **Redis compression with gzip/base64** on the backend, to **preload/memoize patterns** in React Native using contexts and hooks.
-- 🧱 Built scalable and modular APIs with **JWT auth**, and **advanced SQL aggregation logics**.
-- 📲 Created fluid, snappy UI experiences with **React Native**, **custom animations**, and **offline-first** patterns.
+### 💻 Languages
+JavaScript · TypeScript · Python · Java · C# · MIPS Assembly  
 
----
+### 🖥 Frontend
+React · React Native (Expo) · Context Architecture · Performance Optimization  
 
-## 🌟 Featured Projects
+### 🔧 Backend
+Node.js · NestJS · Express (legacy)  
+REST APIs · Authentication Systems (JWT + DPoP mindset)  
+Guards · Interceptors · Validation Pipes  
 
-### 🏋️ Strong Together App – *GYM Tracker (iOS)*
+### 🗄 Databases
+PostgreSQL (advanced usage, RLS) · MongoDB · Redis  
 
-A smart mobile app to track workouts, cardio, and progress – built from scratch using best practices in mobile engineering.
+### ⚡ Async & Realtime
+Redis Pub/Sub · BullMQ · Background Workers · Socket.IO  
 
-#### 🔷 Frontend
-- React Native (Expo SDK 54)
-- Modular context architecture (Auth, Workout, Analysis, Notifications)
-- Advanced memoization and caching strategies
-- Real-time progress tracking and UI animations
-- **Published to App Store**
+### ☁️ Infrastructure
+Docker · Docker Compose  
+AWS (S3, SQS, EC2 concepts)  
+LocalStack (full AWS simulation locally)  
+Render (production deployment)
 
-🔗 [Frontend Repo](https://github.com/kobihanoch/Strong-Together-App)
-
-#### 🔶 Backend
-- Node.js + Express API
-- Supabase PostgreSQL with RLS
-- Redis Caching Layer (GZIP + fallback logic)
-- Secure Auth flow + Token Refresh logic
-
-🔗 [Backend Repo](https://github.com/kobihanoch/Strong-Together-Backend)
+### 📊 Observability
+Pino (structured logging)  
+Sentry (errors + tracing mindset)
 
 ---
 
-### 🤸 PilatesApp – *Booking Platform for Instructors & Clients*
+## 🏗 System Architecture (Real Production Experience)
 
-An end-to-end Pilates booking system originally built for a real instructor, including admin tools and session management.
+I built a full backend platform with:
 
-#### 🔷 Frontend
-- React
-- Session calendar, dynamic modals, role-based actions
-
-🔗 [Frontend Repo](https://github.com/kobihanoch/pilatesapp-frontend)
-
-#### 🔶 Backend
-- Express API with JWT auth
-- MongoDB Atlas (cloud-managed)
-- Render deployment with Docker support (also tested deployment with AWS EC2)
-- Admin panel & session logic exposed through REST
-
-🔗 [Backend Repo](https://github.com/kobihanoch/pilatesapp-backend)
+- Modular **NestJS architecture**
+- Request-scoped **PostgreSQL transactions with RLS**
+- **Async processing pipeline** (queues + workers)
+- **Realtime delivery layer** (Socket.IO + Redis)
+- **S3 → SQS → Python worker pipeline** for video processing
+- Full **Docker-based dev + test environments**
+- **CI-ready testing flow** with isolated infra
 
 ---
 
-## 🎯 Goals for 2025
+## 🌟 Featured Project
 
-- 🧠 Deepen my understanding of **Kubernetes**, **Helm**, and modern **cloud-native architecture** to confidently manage large-scale systems
-- 🧪 Build a real **SaaS product** that solves a meaningful problem and delivers real, measurable value to users
-- 🧱 Create an **enterprise-grade platform** with **microservices**, **high availability**, **observability**, and **scalable best practices**
-- 📚 Become a stronger **frontend and backend developer** by mastering how things work **under the hood** (React, Node.js, etc.)
-- ☁️ Strengthen my **DevOps and Cloud fundamentals** - CI/CD, Docker, container orchestration, and deployment pipelines
-- 💼 Gain **real-world experience** while still studying - through part-time work, freelance, or high-impact collaborations
+### 🏋️ Strong Together
+
+A full production system for workout tracking, analytics, and real-time interactions.
+
+#### 🔹 Frontend
+- React Native (Expo)
+- Custom data layer (SWR-like behavior)
+- Memoization + performance-focused rendering
+- Realtime UI updates
+
+#### 🔸 Backend
+- NestJS modular monolith
+- PostgreSQL with RLS (row-level security)
+- Redis (cache + pub/sub + queues)
+- Background workers (emails, notifications)
+- Python service for video analysis (OpenCV / MediaPipe)
+- S3 + SQS pipeline (event-driven processing)
+
+🔗 Backend: https://github.com/kobihanoch/Strong-Together-Backend  
+🔗 App: https://github.com/kobihanoch/Strong-Together-App  
 
 ---
 
-## 🤝 Let’s Connect
+## 🔥 What Makes Me Different
 
-I’m open to **internships**, **junior positions**, and **collaboration** with startups or dev teams looking for someone who cares about building solid, scalable apps - both in code and in spirit.
-
-📫 Feel free to reach out:
-
-- ✉️ [kobikobi622@gmail.com](mailto:kobikobi622@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kobi-hanoch-297522353/)  
-- 💻 [GitHub](https://github.com/kobihanoch)
+- I don’t just use tools — I **understand how they work internally**
+- I build **infrastructure locally** (Docker + AWS simulation)
+- I design systems with **failure scenarios in mind**
+- I prefer **clear architecture over quick hacks**
+- I’m comfortable working across:
+  - Backend
+  - Mobile
+  - Infrastructure
+  - Async systems
 
 ---
 
-> “Code is like humor - when you have to explain it, it’s bad.”  
-> - Cory House
+## 🎯 Current Focus
+
+- Distributed systems fundamentals
+- Cloud architecture (AWS ecosystem)
+- System design at scale
+- Backend performance & observability
+
+---
+
+## 🤝 Open To
+
+- Student / Junior Backend roles
+- Full Stack positions (backend-heavy)
+- Teams building real systems (not just CRUD apps)
+
+---
+
+## 📫 Contact
+
+📧 kobikobi622@gmail.com  
+💼 https://www.linkedin.com/in/kobi-hanoch-297522353/  
+💻 https://github.com/kobihanoch  
+
+---
+
+> I care about building systems that actually work in the real world —  
+> not just code that compiles.
