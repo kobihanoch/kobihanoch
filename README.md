@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Kobi Hanoch
 
 💻 Full Stack Engineer  
-🎓 Computer Science Student (2nd Year) – Afeka College  
+🎓 Computer Science Student (3rd Year) – Afeka College  
 📍 Israel  
 
 <p align="center">
